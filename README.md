@@ -1,6 +1,63 @@
-# My Repository
-- Purpose Of This Repository : __Testing My Giscus__
-- Are Me(You) Can Use This Repository To _Testing My Giscus?_ : Maybe __Yes__ & I Beginner For Using Giscus So..
-- Do You Have Social Media? : __Yes__
-  * Discord : _Maulanaxyz25\__
-  * Bye!
+# Gicus Repository
+- This Repository ***For My Giscus***
+- You *Can* Use It[^1]
+> Enjoy :>[^2]
+
+
+
+> [!WARNING]
+> Maybe Chat Mixed With Another People Giscus, It ***NOT** Recommended To Use This*.
+
+> [!TIP]
+> Recommended To Create Own Repository
+
+> [!CAUTION]
+> ***DON'T BE VIOLENT, THATS MAKE ANOTHER PEOPLE WHO USE IT INTERRUPTED!!***
+
+[^1]:Idk It Work Or Not *J-just Try It.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^2]:try it first, if can't just make a issues
